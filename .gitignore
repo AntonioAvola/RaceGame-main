@@ -1,0 +1,26 @@
+# Ignore Gradle specific files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore build outputs
+out/
+
+# Ignore temporary files
+*.class
+*.jar
+*.war
+*.ear
